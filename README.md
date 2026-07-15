@@ -1,26 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0a001f,60:000d33,100:001aff&height=280&section=header&text=SAIFUL%20IQBAL&fontSize=70&fontAlignY=45&desc=%3E%20Hybrid%20Technologist%20%2F%2F%20Red%20Teamer%20%2F%2F%20Full-Stack%20Engineer%20%2F%2F%20Project%20Architect&descAlignY=65&descSize=13&fontColor=00E5FF&animation=blinking&stroke=0055FF&strokeWidth=2" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════════ HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0a001f,50:000d33,75:001aff,100:000000&height=220&section=header&text=SAIFUL%20IQBAL&fontSize=62&fontAlignY=38&desc=Hybrid%20Technologist%20%7C%20Red%20Teamer%20%7C%20Full-Stack%20Architect&descAlignY=58&descSize=14&fontColor=00E5FF&animation=twinkling&stroke=0055FF&strokeWidth=2" width="100%" />
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=%5BSYSTEM+ONLINE%5D+Initializing+profile...;+Founder+%40+Team+ChendAwan;+Offensive+Security+%7C+Full-Stack+%7C+AI+Security+%7C+Project+Lead;+CRTOM+%7C+CTIGA+%7C+CCEP+%7C+CLLMSP+Certified;+Active+CTF+Player+%7C+Security+Competitor;+%22Don't+just+find+vulnerabilities+—+neutralize+them.%22" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2400&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=%5B%2A%5D+SYSTEM+ONLINE+%7C+Profile+loaded;Founder+%40+Team+ChendAwan;Offensive+Security+%C2%B7+Full-Stack+%C2%B7+AI%2FLLM+Security;CRTOM+%C2%B7+CTIGA+%C2%B7+CCEP+%C2%B7+CLLMSP;Active+CTF+Player+%7C+National+%26+International;%22Don%27t+just+find+vulnerabilities+%E2%80%94+neutralize+them.%22" />
 
 <br/>
 
-<div align="center">
+<!-- Status strip -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=0a0a0f" />
+<img src="https://img.shields.io/badge/ROLE-Red_Team_Lead-0055FF?style=for-the-badge&labelColor=0a0a0f" />
+<img src="https://img.shields.io/badge/TEAM-Team_ChendAwan-9B00FF?style=for-the-badge&labelColor=0a0a0f" />
+<img src="https://img.shields.io/badge/MINDSET-Security_First-00CC44?style=for-the-badge&labelColor=0a0a0f" />
 
-[![Email](https://img.shields.io/badge/-iqbal.chendawan%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:iqbal.chendawan@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-saiful--iqbal12-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/saiful-iqbal12)&nbsp;
-[![GitHub](https://img.shields.io/badge/-HarlequinCS-000000?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/HarlequinCS)
+<br/><br/>
+
+<!-- Social -->
+[![Email](https://img.shields.io/badge/Email-iqbal.chendawan%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:iqbal.chendawan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saiful--iqbal12-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/saiful-iqbal12)
+[![GitHub](https://img.shields.io/badge/GitHub-HarlequinCS-000000?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/HarlequinCS)
+
+<br/><br/>
+
+<!-- Quick nav -->
+[![whoami](https://img.shields.io/badge/▸_whoami-0a0a0f?style=flat-square&logoColor=00E5FF)](#-whoami)
+[![certs](https://img.shields.io/badge/▸_certifications-0a0a0f?style=flat-square&logoColor=00E5FF)](#-certifications)
+[![skills](https://img.shields.io/badge/▸_skills-0a0a0f?style=flat-square&logoColor=00E5FF)](#-skills)
+[![projects](https://img.shields.io/badge/▸_projects-0a0a0f?style=flat-square&logoColor=00E5FF)](#-projects)
+[![ctf](https://img.shields.io/badge/▸_ctf-0a0a0f?style=flat-square&logoColor=00E5FF)](#-ctf)
+[![stats](https://img.shields.io/badge/▸_telemetry-0a0a0f?style=flat-square&logoColor=00E5FF)](#-telemetry)
 
 </div>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -28,44 +38,45 @@
 
 ## ◈ `whoami`
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```zsh
 ┌──(saiful㉿team-chendawan)-[~]
-└─$ cat identity.txt
+└─$ cat identity.txt && echo
 
-  ╔═══════════════════════════════════════════════════════════════════╗
-  ║  ALIAS    ::  HarlequinCS                                        ║
-  ║  ROLE     ::  Hybrid Technologist · Founder @ Team ChendAwan     ║
-  ║  TYPE     ::  Red Teamer · Full-Stack Engineer · Project Lead     ║
-  ║  CERTS    ::  CRTOM · CTIGA · CCEP · CLLMSP                     ║
-  ║  CTF      ::  Active Competitor — National & International        ║
-  ║  MINDSET  ::  Security-First · High-Agency · Resilience by Design ║
-  ╚═══════════════════════════════════════════════════════════════════╝
+  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+  ┃  ALIAS     HarlequinCS                                         ┃
+  ┃  ROLE      Founder @ Team ChendAwan                            ┃
+  ┃  TYPE      Red Teamer · Full-Stack · Project Lead              ┃
+  ┃  CERTS     CRTOM · CTIGA · CCEP · CLLMSP                     ┃
+  ┃  CTF       Active — National & International                   ┃
+  ┃  FOCUS     Offensive Sec · AI/LLM · Critical Infrastructure    ┃
+  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-<br/>
+</td>
+<td width="45%" valign="top">
 
-I build and break things — professionally. As Founder of **Team ChendAwan**, I architect systems engineered to withstand real-world threats: state-level government portals, encrypted industrial IoT, and enterprise-grade security tooling. My world sits at the intersection of **offensive security**, **full-stack engineering**, and **AI/LLM systems**. On any project, I'm simultaneously the architect, the attacker, the developer, and the lead.
+**Hybrid Technologist** operating at the intersection of offense, engineering, and architecture.
 
-<br/>
+I build and break systems professionally — government portals, encrypted industrial IoT, enterprise security tooling, and AI-powered automation.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+On every engagement I wear four hats at once:
 
-<br/>
+| Hat | Function |
+|:---:|:---------|
+| 🏗 | **Architect** — design for scale & resilience |
+| ⚔ | **Attacker** — think like the adversary |
+| 💻 | **Developer** — ship production-grade code |
+| 🎯 | **Lead** — drive delivery end-to-end |
 
-## ◈ `certifications --list`
+> *Security-First · High-Agency · Resilience by Design*
 
-<br/>
-
-<div align="center">
-
-| &nbsp; | Certification | Domain | Status |
-|:------:|:-------------|:-------|:------:|
-| ![](https://img.shields.io/badge/CRTOM-FF0033?style=flat-square) | **Certified Red Team Operations Manager** | Offensive Security | `ACTIVE` |
-| ![](https://img.shields.io/badge/CTIGA-0055FF?style=flat-square) | **Certified Threat Intelligence & Gap Analyst** | Threat Intelligence | `ACTIVE` |
-| ![](https://img.shields.io/badge/CCEP-00CC44?style=flat-square) | **Certified Cybersecurity Educator Professional** | Security Education | `ACTIVE` |
-| ![](https://img.shields.io/badge/CLLMSP-9B00FF?style=flat-square) | **Certified LLM Security Professional** | AI / LLM Security | `ACTIVE` |
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -73,161 +84,43 @@ I build and break things — professionally. As Founder of **Team ChendAwan**, I
 
 <br/>
 
-## ◈ `skills --all`
-
-<br/>
-
-<div align="center">
-
----
-
-### 🔴 OFFENSIVE SECURITY & DFIR
-
-> *Penetration testing · Red teaming · Digital forensics · Incident response*
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-1793D1?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-0d47a1?style=for-the-badge&logoColor=white)
-![KAPE](https://img.shields.io/badge/KAPE-0d47a1?style=for-the-badge&logoColor=white)
-
----
-
-### 🟡 BACKEND & API ENGINEERING
-
-> *Server architecture · REST APIs · Database design · Authentication systems*
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🔵 FRONTEND & MODERN UI
-
-> *Pixel-perfect interfaces · Component architecture · Performance-first design*
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 🟣 AI SECURITY · LLM · AUTOMATION
-
-> *LLM red teaming · Prompt injection · AI-powered tooling · Test automation*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![OpenAI APIs](https://img.shields.io/badge/OpenAI%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLM Red Teaming](https://img.shields.io/badge/LLM%20Red%20Teaming-9B00FF?style=for-the-badge&logoColor=white)
-![Cursor IDE](https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logoColor=white)
-
----
-
-### 🟠 IoT · FIRMWARE · CRITICAL INFRASTRUCTURE
-
-> *Embedded systems · Hardware encryption · Sensor telemetry · Secure protocols*
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![TLS/MQTT](https://img.shields.io/badge/TLS%2FMQTT-4a0072?style=for-the-badge&logo=mqtt&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
----
-
-### 🟢 PROJECT MANAGEMENT · DEVOPS
-
-> *End-to-end delivery · Agile sprints · CI/CD pipelines · Team leadership*
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Agile / Scrum](https://img.shields.io/badge/Agile%20%2F%2F%20Scrum-009FDA?style=for-the-badge&logoColor=white)
-
----
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## ◈ `projects --approach`
-
-```zsh
-┌──(saiful㉿team-chendawan)-[~/projects]
-└─$ cat approach.md
-
-  ⚠  Repos are private — NDA, active research, or live deployment.
-     What matters is how I work, not what I call it.
-```
-
-<br/>
+## ◈ `certifications`
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**`// Security Tooling`**
-
-I build automated offensive security tools that don't just scan — they think. Vulnerability discovery is paired with AI-generated analysis so reports read like a senior pentester wrote them, not a scanner.
-
-`Python` `Playwright` `AI APIs` `Report Generation`
-
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/CRTOM-FF0033?style=for-the-badge&labelColor=1a0008" /><br/><br/>
+<b>Certified Red Team<br/>Operations Manager</b><br/>
+<sub>Offensive Security</sub><br/><br/>
+<img src="https://img.shields.io/badge/●_ACTIVE-00CC44?style=flat-square&labelColor=0a0a0f" />
+<br/><br/>
 </td>
-<td width="50%" valign="top">
-
-**`// Government & State-Level Portals`**
-
-I architect full-stack platforms built for real public load — not demo traffic. Security hardening, DDoS mitigation, and clean UI are non-negotiables from day one.
-
-`Laravel` `Cloudflare` `MySQL` `High-Concurrency Design`
-
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/CTIGA-0055FF?style=for-the-badge&labelColor=000d33" /><br/><br/>
+<b>Certified Threat<br/>Intelligence & Gap Analyst</b><br/>
+<sub>Threat Intelligence</sub><br/><br/>
+<img src="https://img.shields.io/badge/●_ACTIVE-00CC44?style=flat-square&labelColor=0a0a0f" />
+<br/><br/>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**`// Industrial IoT Systems`**
-
-I design embedded systems where the hardware itself enforces security. State-driven logic, TLS-encrypted MQTT, and hardware-to-cloud telemetry built for environments where failure is not an option.
-
-`C++` `ESP32` `TLS/MQTT` `Firmware Engineering`
-
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/CCEP-00CC44?style=for-the-badge&labelColor=001a0a" /><br/><br/>
+<b>Certified Cybersecurity<br/>Educator Professional</b><br/>
+<sub>Security Education</sub><br/><br/>
+<img src="https://img.shields.io/badge/●_ACTIVE-00CC44?style=flat-square&labelColor=0a0a0f" />
+<br/><br/>
 </td>
-<td width="50%" valign="top">
-
-**`// E-Commerce & Payment Systems`**
-
-I build transaction-critical systems with rigorous API integrity. Payment flows are engineered to be tamper-proof, not just functional — every integration is treated as a potential attack surface.
-
-`Laravel` `REST APIs` `Payment Gateway Integration`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**`// Microservices & Scalable Platforms`**
-
-I design and build microservice architectures where each service is independently deployable, security-scoped, and integrated with SSR frontends. Ongoing R&D — always iterating.
-
-`FastAPI` `Next.js` `Express.js` `Security-First Architecture`
-
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/CLLMSP-9B00FF?style=for-the-badge&labelColor=12001a" /><br/><br/>
+<b>Certified LLM<br/>Security Professional</b><br/>
+<sub>AI / LLM Security</sub><br/><br/>
+<img src="https://img.shields.io/badge/●_ACTIVE-00CC44?style=flat-square&labelColor=0a0a0f" />
+<br/><br/>
 </td>
 </tr>
 </table>
@@ -240,17 +133,82 @@ I design and build microservice architectures where each service is independentl
 
 <br/>
 
-## ◈ `ctf --history`
+## ◈ `skills`
 
-```zsh
-┌──(saiful㉿team-chendawan)-[~/ctf]
-└─$ cat competitions.log
+<details open>
+<summary><b>🔴 Offensive Security & DFIR</b> — <i>Penetration testing · Red teaming · Forensics · IR</i></summary>
+<br/>
 
-  [INFO] Active CTF player — national and international circuits.
-  [INFO] Competed across: Web Exploitation · Forensics · OSINT · Crypto · Rev
-  [INFO] Competing as: Team ChendAwan
-  [INFO] Status: ONGOING — always in the game.
-```
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-0d47a1?style=for-the-badge&logoColor=white)
+![KAPE](https://img.shields.io/badge/KAPE-0d47a1?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🟡 Backend & API Engineering</b> — <i>Server architecture · REST · Auth · Database design</i></summary>
+<br/>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔵 Frontend & Modern UI</b> — <i>Component architecture · Performance-first design</i></summary>
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>🟣 AI Security · LLM · Automation</b> — <i>LLM red teaming · Prompt injection · AI tooling</i></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Red Teaming](https://img.shields.io/badge/LLM_Red_Teaming-9B00FF?style=for-the-badge&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logoColor=00E5FF)
+
+</details>
+
+<details>
+<summary><b>🟠 IoT · Firmware · Critical Infrastructure</b> — <i>Embedded · Hardware encryption · Secure protocols</i></summary>
+<br/>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![TLS/MQTT](https://img.shields.io/badge/TLS%2FMQTT-4a0072?style=for-the-badge&logo=mqtt&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🟢 Project Management · DevOps</b> — <i>Agile delivery · CI/CD · Team leadership</i></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_%2F_Scrum-009FDA?style=for-the-badge&logoColor=white)
+
+</details>
 
 <br/>
 
@@ -258,11 +216,143 @@ I design and build microservice architectures where each service is independentl
 
 <br/>
 
+## ◈ `projects`
+
+```zsh
+┌──(saiful㉿team-chendawan)-[~/projects]
+└─$ ls -la
+
+  ⚠  Repos are private — NDA, active research, or live deployment.
+     What matters is how I work, not what I call it.
+```
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Security Tooling
+
+Automated offensive tools that don't just scan — they **think**. Vulnerability discovery paired with AI-generated analysis so reports read like a senior pentester wrote them.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![AI APIs](https://img.shields.io/badge/AI_APIs-9B00FF?style=flat-square&logo=openai&logoColor=white)
+![Reports](https://img.shields.io/badge/Report_Generation-0055FF?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛 Government & State Portals
+
+Full-stack platforms built for **real public load** — not demo traffic. Security hardening, DDoS mitigation, and clean UI from day one.
+
+<br/>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Scale](https://img.shields.io/badge/High_Concurrency-00E5FF?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔩 Industrial IoT Systems
+
+Embedded systems where **hardware enforces security**. State-driven logic, TLS-encrypted MQTT, and hardware-to-cloud telemetry for environments where failure is not an option.
+
+<br/>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-00979D?style=flat-square&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/TLS%2FMQTT-4a0072?style=flat-square&logo=mqtt&logoColor=white)
+![Firmware](https://img.shields.io/badge/Firmware-00CC44?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 E-Commerce & Payments
+
+Transaction-critical systems with rigorous API integrity. Payment flows engineered to be **tamper-proof** — every integration treated as an attack surface.
+
+<br/>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-0055FF?style=flat-square&logoColor=white)
+![Payments](https://img.shields.io/badge/Payment_Gateways-FF0033?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🧩 Microservices & Scalable Platforms
+
+Microservice architectures where each service is independently deployable, security-scoped, and integrated with SSR frontends. Ongoing R&D — always iterating.
+
+<br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Security](https://img.shields.io/badge/Security_First-00E5FF?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## ◈ `ctf`
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+```zsh
+┌──(saiful㉿team-chendawan)-[~/ctf]
+└─$ tail -f competitions.log
+
+  [INFO] Active CTF player
+  [INFO] National & international
+  [INFO] Team: Team ChendAwan
+  [INFO] Status: ONGOING
+```
+
+</td>
+<td width="60%" valign="top">
+
+| Domain | Level |
+|:-------|:------:|
+| Web Exploitation | ████████░░ |
+| Digital Forensics | ███████░░░ |
+| OSINT | ████████░░ |
+| Cryptography | ██████░░░░ |
+| Reverse Engineering | ███████░░░ |
+
+<br/>
+
+Competing continuously across national and international circuits — always in the game.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## ◈ `python3 identity.py`
 
 ```python
 class SaifulIqbal:
-
     alias   = "HarlequinCS"
     founded = "Team ChendAwan"
     roles   = ["Red Teamer", "Full-Stack Engineer", "Project Architect", "LLM Security Researcher"]
@@ -296,33 +386,45 @@ if __name__ == "__main__":
 
 <br/>
 
-## ◈ `telemetry --live`
-
-<br/>
+## ◈ `telemetry`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarlequinCS&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00E5FF&icon_color=0055FF&bg_color=0d0d0d&text_color=ffffff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlequinCS&layout=compact&theme=radical&hide_border=true&title_color=00E5FF&bg_color=0d0d0d&text_color=ffffff" width="49%" />
+<!-- GitHub Stats Grid -->
+<img src="https://github-readme-stats.vercel.app/api?username=HarlequinCS&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=00E5FF&icon_color=0055FF&bg_color=0a0a0f&text_color=e0e0e0&border_radius=12" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlequinCS&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&bg_color=0a0a0f&text_color=e0e0e0&langs_count=8&border_radius=12" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarlequinCS&theme=radical&hide_border=true&ring=00E5FF&fire=0055FF&currStreakLabel=00E5FF&background=0d0d0d" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarlequinCS&theme=transparent&hide_border=true&ring=00E5FF&fire=0055FF&currStreakLabel=00E5FF&sideLabels=0055FF&background=0a0a0f&dates=888888" width="65%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarlequinCS&bg_color=0d0d0d&color=00E5FF&line=0055FF&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarlequinCS&bg_color=0a0a0f&color=00E5FF&line=0055FF&point=ffffff&area=true&area_color=0055FF&hide_border=true" width="100%" />
+
+<br/><br/>
+
+<!-- Contribution snake -->
+<img src="https://raw.githubusercontent.com/HarlequinCS/HarlequinCS/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:001aff,50:0a0a2e,100:000000&height=140&section=footer&animation=twinkling&text=TEAM%20CHENDAWAN&fontSize=20&fontColor=00E5FF&fontAlignY=65" width="100%" />
-
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:001aff,40:0a0a2e,100:000000&height=120&section=footer&animation=twinkling&text=TEAM%20CHENDAWAN&fontSize=22&fontColor=00E5FF&fontAlignY=62" width="100%" />
+
+<br/>
+
 ```
-[ SYSTEM ] "Resilience is not a feature — it's a foundation."
+╔══════════════════════════════════════════════════════════════╗
+║  [ SYSTEM ]  "Resilience is not a feature — it's a foundation." ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=HarlequinCS&label=PROFILE+VIEWS&color=0055FF&style=for-the-badge" />
 
 </div>
