@@ -1,200 +1,175 @@
 <div align="center">
 
-<!-- ▸ HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,15:0a0020,35:000428,55:001aff,75:0a0020,100:000000&height=260&section=header&text=SAIFUL%20IQBAL&fontSize=62&fontAlignY=38&desc=Cybersecurity%20Engineer%20%C2%B7%20Red%20Team%20Operator%20%C2%B7%20AI%20Security%20Researcher&descAlignY=58&descSize=14&fontColor=00F0FF&animation=twinkling&stroke=0066FF&strokeWidth=2" width="100%" alt="Saiful Iqbal — Cybersecurity Engineer, Red Team Operator, AI Security Researcher" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=880&lines=Cybersecurity+Engineer+%C2%B7+Red+Team+Operator;AI+Security+Researcher+%C2%B7+Full-Stack+Developer;Founder+%40+Team+ChendAwan+%C2%B7+CTF+Player+%40+LKP.exe;CRTOM+%C2%B7+CTIGA+%C2%B7+CCEP+%C2%B7+CLLMSP" alt="Typing animation of professional roles" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0a1a,100:050505&height=220&section=header&reversal=false&text=SAIFUL%20IQBAL&fontSize=48&fontColor=00E5FF&fontAlignY=45&desc=Security%20Engineer%20%C2%B7%20AI%20Researcher&descSize=13&descAlignY=65&animation=fadeIn&stroke=7C3AED&strokeWidth=0.5" width="100%" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE-00F0FF?style=for-the-badge&labelColor=050508" alt="Status: Available" />
-<img src="https://img.shields.io/badge/FOCUS-RED_TEAM_%26_AI_SECURITY-FF0040?style=for-the-badge&labelColor=050508" alt="Focus: Red Team and AI Security" />
-<img src="https://img.shields.io/badge/BASED_IN-MALAYSIA-8B5CF6?style=for-the-badge&labelColor=050508" alt="Based in Malaysia" />
+<a href="https://github.com/HarlequinCS">
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-10B981?style=for-the-badge&labelColor=050505&color=10B981" alt="Open to Work" />
+</a>
+<a href="mailto:iqbal.chendawan@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-REACH_OUT-00E5FF?style=for-the-badge&labelColor=050505&color=00E5FF" alt="Contact" />
+</a>
 
-<br/><br/>
+<br/>
 
-<a href="#about">About</a> ·
-<a href="#cyber-operations">Cyber Operations</a> ·
-<a href="#tech-stack">Tech Stack</a> ·
-<a href="#projects">Projects</a> ·
-<a href="#achievements">Achievements</a> ·
-<a href="#github-stats">GitHub Stats</a>
-
-<br/><br/>
-
-[![Email](https://img.shields.io/badge/Email-iqbal.chendawan%40gmail.com-050508?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:iqbal.chendawan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saiful--iqbal12-050508?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/saiful-iqbal12)
-[![GitHub](https://img.shields.io/badge/GitHub-HarlequinCS-050508?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/HarlequinCS)
+<a href="https://linkedin.com/in/saiful-iqbal12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/HarlequinCS"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:iqbal.chendawan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+## The Mission
 
-<br/>
+> I build security into systems before attackers can break them. My work spans offensive security research, AI/LLM red teaming, and full-stack engineering — because the best defense starts with thinking like an attacker.
 
-## About
-<a name="about"></a>
-
-I'm a security-focused software engineer working across **offensive security**, **full-stack development**, and **AI/LLM security research**. I split my time between building production systems and stress-testing them — writing the code that ships and then trying to break it before someone else does.
-
-I founded **Team ChendAwan**, a small security research collective, and compete with **LKP.exe** on the CTF circuit across web exploitation, forensics, OSINT, and cryptography challenges.
+---
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Currently working on**
-- LLM red teaming & adversarial prompt research
-- Security tooling with AI-assisted reporting
-- Hardening high-traffic public-sector platforms
-- Secure firmware for embedded/IoT systems
+### What I Do
+
+**Offensive Security**
+Penetration testing, red team operations, and vulnerability research across web, network, and cloud infrastructure.
+
+**AI Security Research**
+LLM red teaming, adversarial prompt engineering, and developing security tooling powered by machine intelligence.
+
+**Secure Architecture**
+Building production systems with security-first design — from payment gateways to government platforms.
+
+**CTF Competition**
+Competitive player with LKP.exe, specializing in web exploitation, forensics, OSINT, and cryptography.
 
 </td>
 <td width="50%" valign="top">
 
-**Certifications**
-- Certified Red Team Operations Manager (CRTOM)
-- Certified Threat Intelligence & Gap Analyst (CTIGA)
-- Certified Cybersecurity Educator Professional (CCEP)
-- Certified LLM Security Professional (CLLMSP)
+### Recognition
+
+| Credential | Focus |
+|:---|:---|
+| CRTOM | Red Team Operations Management |
+| CTIGA | Threat Intelligence Analysis |
+| CCEP | Cybersecurity Education |
+| CLLMSP | LLM Security |
+
+| Affiliation | Role |
+|:---|:---|
+| Team ChendAwan | Founder & Lead Researcher |
+| LKP.exe | CTF Player |
 
 </td>
 </tr>
 </table>
 
+---
+
+## Security & Development Ecosystem
+
+<div align="center">
+
+**PENETRATION TESTING & RED TEAM**
+<br/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" alt="Nmap" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+
 <br/>
 
-## Cyber Operations
-<a name="cyber-operations"></a>
+**AI & MACHINE INTELLIGENCE**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+
+<br/>
+
+**FULL-STACK ENGINEERING**
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+
+<br/>
+
+**INFRASTRUCTURE & DEVOPS**
+<br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+
+</div>
+
+---
+
+## Featured Work
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### LKP.exe — CTF Team
-Competitive CTF team playing national and international events. Primary areas: web exploitation, digital forensics, OSINT, and cryptography, with reverse engineering as a supporting skill.
+### VERITAS — Security Scanner
+Automated vulnerability detection with AI-assisted remediation reporting. Reduces time from discovery to developer-ready explanation.
 
-`Web Exploitation` `Digital Forensics` `OSINT` `Cryptography` `Reverse Engineering`
+`Python` · `Playwright` · `OpenAI API` · `FastAPI`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### Team ChendAwan — Research Collective
-A small team I founded that builds security tooling, audits infrastructure, and works on government and industrial IoT platforms under NDA.
+### Public-Sector Platform
+High-concurrency government web platform with integrated DDoS mitigation, WAF rules, and zero-trust access architecture.
 
-`Security Tooling` `Infrastructure Audits` `IoT Security` `AI-Assisted Reporting`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<br/>
-<img src="https://i.ibb.co/tTR919SW/Chendawanputih.png" width="55%" alt="Team ChendAwan logo" />
-</div>
-
-<br/>
-
-## Tech Stack
-<a name="tech-stack"></a>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php,react,nextjs,tailwind,fastapi,laravel,nodejs,docker,linux,git,nginx,mysql,redis&theme=dark&perline=9" alt="Technology icons" />
-</div>
-
-<br/>
-
-**Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Web Development**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Cloud & Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Cybersecurity Tools**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=flat-square&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-
-**AI / ML Security**
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Security](https://img.shields.io/badge/Prompt_Injection_Research-8B5CF6?style=flat-square&logoColor=white)
-![LLM Red Teaming](https://img.shields.io/badge/LLM_Red_Teaming-8B5CF6?style=flat-square&logoColor=white)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
-<br/>
-
-## Projects
-<a name="projects"></a>
-
-> Most client and government work is under NDA, so repos are private. Descriptions below outline scope and stack rather than implementation detail.
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### AI-Assisted Security Scanner
-Automated tooling that pairs vulnerability discovery with LLM-generated remediation reports, aimed at cutting the time between finding and explaining an issue.
-
-`Python` `Playwright` `OpenAI API` `FastAPI`
-
-**Access:** Private / NDA
+`Laravel` · `Cloudflare` · `MySQL` · `Redis`
 
 </td>
-<td width="50%" valign="top">
-
-### Public-Sector Web Platform
-A high-concurrency government platform built with DDoS mitigation, WAF rules, and zero-trust access patterns from the initial architecture.
-
-`Laravel` `Cloudflare` `MySQL` `Redis`
-
-**Access:** Private / NDA
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Industrial IoT Telemetry Mesh
-TLS-encrypted MQTT telemetry pipeline for ESP32 devices, with secure OTA update support for critical infrastructure hardware.
+TLS-encrypted MQTT telemetry pipeline for ESP32 devices with secure OTA firmware updates for critical infrastructure.
 
-`C++` `ESP32` `MQTT` `TLS`
+`C++` · `ESP32` · `MQTT` · `TLS`
 
-**Access:** Private / NDA
+---
+
+### SIEM Dashboard
+Real-time security event visualization with anomaly detection, threat correlation, and incident response workflows.
+
+`React` · `FastAPI` · `Elasticsearch` · `Redis`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### RoadSense
+Intelligent road safety analytics platform processing real-time sensor data with predictive hazard modeling.
+
+`Python` · `TensorFlow` · `FastAPI` · `Docker`
 
 </td>
 <td width="50%" valign="top">
 
 ### Payment Integration Layer
-A REST API layer for payment processing with JWT auth, request integrity checks, and end-to-end transaction logging.
+Secure REST API for payment processing with JWT authentication, request integrity verification, and full transaction logging.
 
-`Laravel` `REST API` `JWT`
-
-**Access:** Private / NDA
+`Laravel` · `REST API` · `JWT`
 
 </td>
 </tr>
@@ -202,99 +177,75 @@ A REST API layer for payment processing with JWT auth, request integrity checks,
 
 <div align="center">
 
-### Microservices Platform
-Independently deployable services behind a Next.js SSR frontend, containerized and deployed via GitHub Actions.
-
-`FastAPI` `Next.js` `Express.js` `Docker` `GitHub Actions`
-
-**Access:** Private / NDA
+`Most client and government projects are under NDA. Repository access available upon request.`
 
 </div>
 
-<br/>
+---
 
-## Achievements
-<a name="achievements"></a>
+## Research & Operations
 
-**Certifications**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-| Certification | Full Name |
-|---|---|
-| CRTOM | Certified Red Team Operations Manager |
-| CTIGA | Certified Threat Intelligence & Gap Analyst |
-| CCEP | Certified Cybersecurity Educator Professional |
-| CLLMSP | Certified LLM Security Professional |
+### Team ChendAwan
+**Security Research Collective** — Founder
 
-**CTF & Research**
+A research-focused team building security tooling, auditing infrastructure, and developing AI-assisted reporting systems. Works across government and industrial IoT platforms.
 
-| Area | Detail |
-|---|---|
-| LKP.exe | Active CTF team, national and international competitions |
-| Team ChendAwan | Founder — security research collective |
-| Focus domains | Web exploitation, digital forensics, OSINT, cryptography |
+`Security Tooling` · `Infrastructure Audits` · `IoT Security` · `AI Reporting`
 
-**Selected Milestones**
+</td>
+<td width="50%" valign="top">
 
-| Milestone | Description |
-|---|---|
-| Public-sector platform | Architected a high-concurrency government web platform |
-| IoT security | Deployed a hardware-encrypted industrial telemetry system |
-| AI security research | Ongoing LLM red teaming and adversarial AI work |
-| Security tooling | Built an AI-assisted automated pentest reporting tool |
+### LKP.exe
+**CTF Competition Team**
 
-<br/>
+Active competitive team competing nationally and internationally. Core competencies in web exploitation, digital forensics, OSINT, and cryptographic analysis.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+`Web Exploitation` · `Forensics` · `OSINT` · `Cryptography` · `Reverse Engineering`
 
-<br/>
+</td>
+</tr>
+</table>
 
-## GitHub Stats
-<a name="github-stats"></a>
+<div align="center">
+<img src="https://i.ibb.co/tTR919SW/Chendawanputih.png" width="320" alt="Team ChendAwan" />
+</div>
+
+---
+
+## Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarlequinCS&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=00F0FF&icon_color=0066FF&text_color=c9d1d9&bg_color=050508&border_radius=16&ring_color=00F0FF" width="49%" alt="HarlequinCS GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlequinCS&layout=compact&theme=transparent&hide_border=true&title_color=00F0FF&text_color=c9d1d9&bg_color=050508&langs_count=10&border_radius=16&hide=html,css" width="49%" alt="Most used languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarlequinCS&theme=dark&background=050505&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=7C3AED&currStreakNum=00E5FF&sideNums=8B5CF6&dates=484F58&border=1a1a2e" width="70%" alt="Streak" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarlequinCS&theme=transparent&hide_border=true&ring=00F0FF&fire=0066FF&currStreakLabel=00F0FF&sideLabels=0066FF&sideNums=c9d1d9&currStreakNum=00F0FF&dates=484f58&background=050508" width="65%" alt="Contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarlequinCS&bg_color=050508&color=00F0FF&line=0066FF&point=ffffff&area=true&area_color=0066FF&hide_border=true" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarlequinCS&bg_color=050505&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:001aff,30:0a0a2e,70:050508,100:000000&height=120&section=footer&animation=twinkling&text=TEAM%20CHENDAWAN&fontSize=22&fontColor=00F0FF&fontAlignY=62" width="100%" alt="Team ChendAwan footer banner" />
+### &nbsp;
 
-[![Email](https://img.shields.io/badge/Email-iqbal.chendawan%40gmail.com-050508?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:iqbal.chendawan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-050508?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/saiful-iqbal12)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-050508?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/HarlequinCS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:0a0a1a,60:0a0a2e,100:050505&height=100&section=footer&reversal=false&animation=fadeIn&text=BUILDING%20SECURE%20SYSTEMS&fontSize=14&fontColor=484F58&fontAlignY=50&stroke=1a1a2e&strokeWidth=0.5" width="100%" />
+
+<a href="https://linkedin.com/in/saiful-iqbal12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/HarlequinCS"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:iqbal.chendawan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=HarlequinCS&label=PROFILE+VIEWS&color=0066FF&style=for-the-badge" alt="Profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=HarlequinCS&label=PROFILE+VIEWS&color=484F58&style=flat-square" alt="Views" />
 
-<br/><br/>
+<br/>
 
-<sub>Building secure systems, one audit at a time.</sub>
+<sub>Security engineer. Systems thinker. Building quietly.</sub>
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     SETUP NOTES (remove before publishing):
-
-     1. Contribution snake (optional): add .github/workflows/snake.yml
-        using Platane/snk@v3, output to an `output` branch, then embed:
-        https://raw.githubusercontent.com/HarlequinCS/HarlequinCS/output/github-contribution-grid-snake.svg
-
-     2. Swap "HarlequinCS" for your GitHub username in every stats URL
-        if this is reused for another profile.
-
-     3. Update project links once any repos are made public.
-     ═══════════════════════════════════════════════════════════════ -->
