@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0a0a,15:1a0a2e,30:0a0020,50:000428,70:1a0a2e,100:0a0a0a&height=300&section=header&reversal=false&animation=twinkling&stroke=00E5FF&strokeWidth=0.5" width="100%" />
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=1200&pause=400&color=00E5FF&center=true&vCenter=true&width=950&lines=SAIFUL+IQBAL;CYBERSECURITY+ENGINEER+-+AI+RESEARCHER;RED+TEAM+OPERATOR+-+CTF+PLAYER" alt="Animated Hero Title" width="100%" />
 
 <br/>
@@ -31,10 +27,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=HarlequinCS&style=flat-square&color=7C3AED&label=ELITE+VISITORS&labelColor=050505" alt="Visitors" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,20:FF3366,40:7C3AED,60:00E5FF,80:10B981,100:0a0a0a&height=50&section=divider&reversal=false&animation=shimmer&stroke=FFFFFF&strokeWidth=0.2" width="100%" />
 
 </div>
 
@@ -144,14 +136,6 @@ Certified LLM Security Professional
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,20:10B981,40:00E5FF,60:7C3AED,80:FF3366,100:0a0a0a&height=40&section=divider&reversal=false&animation=twinkling" width="100%" />
 
 </div>
 
@@ -286,14 +270,6 @@ Certified LLM Security Professional
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,20:FF3366,40:10B981,60:7C3AED,80:00E5FF,100:0a0a0a&height=40&section=divider&reversal=false&animation=shimmer" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
 ### PROJECT SHOWCASE - PREMIUM CARDS
 
 </div>
@@ -415,14 +391,6 @@ Certified LLM Security Professional
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,20:00E5FF,40:FF3366,60:10B981,80:7C3AED,100:0a0a0a&height=40&section=divider&reversal=false&animation=twinkling" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
 ### OPERATIONS HQ - COMMAND CENTER
 
 </div>
@@ -492,14 +460,6 @@ Certified LLM Security Professional
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,20:7C3AED,40:00E5FF,60:FF3366,80:10B981,100:0a0a0a&height=40&section=divider&reversal=false&animation=shimmer" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
 ### GITHUB ANALYTICS DASHBOARD
 
 <br/>
@@ -508,12 +468,12 @@ Certified LLM Security Professional
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarlequinCS&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=7C3AED&text_color=E5E7EB&border_radius=15&include_all_commits=true" width="100%" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=HarlequinCS&show_icons=true&theme=dark&count_private=true&hide_border=true" width="100%" alt="Stats" />
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlequinCS&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=FF3366&text_color=E5E7EB&border_radius=15&langs_count=12&hide=html,css" width="100%" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlequinCS&layout=compact&theme=dark&hide_border=true&langs_count=12&hide=html,css" width="100%" alt="Languages" />
 
 </td>
 </tr>
@@ -521,19 +481,11 @@ Certified LLM Security Professional
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarlequinCS&theme=dark&background=050505&border=7C3AED&ring=00E5FF&fire=FF3366&currStreakLabel=10B981&currStreakNum=00E5FF&sideLabels=7C3AED&sideNums=FF3366&dates=484F58" width="70%" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarlequinCS&theme=dark&hide_border=true" width="70%" alt="Streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarlequinCS&bg_color=050505&color=00E5FF&line=FF3366&point=7C3AED&area=true&area_color=7C3AED&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY+GRAPH" width="100%" alt="Activity" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,20:10B981,40:7C3AED,60:00E5FF,80:FF3366,100:0a0a0a&height=40&section=divider&reversal=false&animation=twinkling" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarlequinCS&bg_color=050505&color=00E5FF&line=FF3366&point=7C3AED&area=true&area_color=7C3AED&hide_border=true" width="100%" alt="Activity" />
 
 </div>
 
@@ -573,10 +525,6 @@ Certified LLM Security Professional
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=HarlequinCS&style=flat-square&color=7C3AED&label=PROFILE+VIEWS&labelColor=050505" alt="Views" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF3366,20:7C3AED,40:00E5FF,60:10B981,80:FF3366,100:0a0a0a&height=100&section=footer&reversal=false&animation=twinkling&text=TEAM+CHENDAWAN&fontSize=18&fontColor=484F58&fontAlignY=60&stroke=1a1a2e&strokeWidth=0.3" width="100%" />
 
 <br/>
 
